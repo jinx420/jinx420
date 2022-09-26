@@ -16,7 +16,7 @@
 You can show support by starring my repos
 If you really, really, really enjoy my work, you can also support me with cryptocurrency
 
-## XMR:
+XMR:
 42VUD5bvLTBKJsoZSGTrCYWK2U6Vd4TCQ1n6dscYhcEccHcQzQ6ArT9N5dMsybMYyvj2bewviH796MAupQXX8LefTgX8ahX
 
 Thank you all so much 🙏
