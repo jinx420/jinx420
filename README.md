@@ -3,11 +3,15 @@
 # EN
 I'm a self-taught programmer who writes for fun, so I have a lot of random projects on my github page.
 
+The easiest way to contact me is via discord: majoad#0001
+
 hope you have a good day!
 
 
 # RU
 Я программист-самоучка, пишущий для развлечения, поэтому на моей странице на github много случайных проектов.
+
+Как связаться со мнойСамый простой способ связаться со мной - через Discord: majoad#0001
 
 Надеюсь, у вас будет хороший день!
 
