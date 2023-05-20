@@ -1,5 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi / Привет
 
+- [x] Spaghetti code
+
 # EN
 I'm a self-taught programmer who writes for fun, so I have a lot of random projects on my github page.
 
