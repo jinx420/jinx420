@@ -2,7 +2,7 @@
 
 - [x] Spaghetti code
 
----
+# About me
 
 I'm a self-taught programmer who writes for fun, so I have a lot of random projects on my github page.
 
