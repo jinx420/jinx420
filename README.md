@@ -1,22 +1,12 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi / Привет
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi
 
 - [x] Spaghetti code
 
-# EN
+---
+
 I'm a self-taught programmer who writes for fun, so I have a lot of random projects on my github page.
 
-The easiest way to contact me is via discord: `majoad`
-
 hope you have a good day!
-
-
-# RU
-Я программист-самоучка, пишущий для развлечения, поэтому на моей странице на github много случайных проектов.
-
-Как связаться со мнойСамый простой способ связаться со мной - через Discord: `majoad`
-
-Надеюсь, у вас будет хороший день!
-
 
 
 ## My GitHub Stats 💻
