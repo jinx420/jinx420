@@ -8,6 +8,8 @@ I'm a self-taught programmer who writes for fun, so I have a lot of random proje
 
 hope you have a good day!
 
+# <img src="https://raw.githubusercontent.com/jinx420/jinx420/main/misc/pls.png">
+
 
 ## My GitHub Stats 💻
 
