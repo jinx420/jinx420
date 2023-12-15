@@ -9,7 +9,7 @@ I'm a self-taught programmer who writes for fun, so I have a lot of random proje
 hope you have a good day!
 
 <p align="right"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://raw.githubusercontent.com/jinx420/jinx420/main/misc/pls.png" >
+  <img align="right" src="https://raw.githubusercontent.com/jinx420/jinx420/main/misc/pls.png" widht="150px">
 </a></p>
 
 
