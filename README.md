@@ -4,16 +4,13 @@
 
 # About me
 
-<div style="display: flex; align-items: center;">
-  <div>
-    I'm a self-taught programmer who writes for fun, so I have a lot of random projects on my github page.
+I'm a self-taught programmer who writes for fun, so I have a lot of random projects on my github page.
 
-    Hope you have a good day!
-  </div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://raw.githubusercontent.com/jinx420/jinx420/main/misc/pls.png" >
-  </a>
-</div>
+hope you have a good day!
+
+<p align="right"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://raw.githubusercontent.com/jinx420/jinx420/main/misc/pls.png" >
+</a></p>
 
 
 ## My GitHub Stats 💻
