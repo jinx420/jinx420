@@ -4,7 +4,7 @@
 
 # About me
 
-I'm a self-taught programmer, I mostly write code for fun, so expect to see random projects on my github page. Hope you have a good day!
+I mostly write code for fun but also for work, so expect to see random projects on my github page. Hope you have a good day!
 
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/jinx420/jinx420/main/misc/pls.png"/>
